@@ -1,0 +1,11 @@
+# requirements.txt
+
+# Use a newer version of sentence-transformers
+sentence-transformers==2.7.0
+
+# For PDF processing
+PyMuPDF==1.23.26
+
+# For numerical operations and similarity calculations
+numpy==1.24.4
+scikit-learn==1.2.2
