@@ -1,0 +1,2 @@
+# Adobe-India-Hacathon-Connecting-the-dots-2025-Round-1B-main
+This repository contains the Round 1B solution for the Adobe India Hackathon 2025: “Connect What Matters, For the User Who Matters.” It builds an AI-powered document analyst that understands user personas to deliver personalized insights, smart summaries, and context-aware recommendations for enhanced document interaction and user experience.
